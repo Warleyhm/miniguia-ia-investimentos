@@ -166,77 +166,96 @@ Entre os principais riscos estão:
 ## 📊 Resumos das Fontes
 
 Guia CVM – Como Funciona a Bolsa
-
+---
 Explica o funcionamento da bolsa de valores, incluindo:
-
+---
 compra e venda de ações
-
+---
 funcionamento do mercado de capitais
-
+---
 participação de investidores
-
+---
 Planejamento Financeiro Pessoal
-
+---
 Materiais educativos sobre:
-
+---
 organização financeira
-
+---
 planejamento de gastos
-
+---
 tomada de decisões financeiras conscientes
 
-Artigo sobre Robo-Advisors
+---
 
+Artigo sobre Robo-Advisors
+---
 Analisa plataformas digitais que utilizam algoritmos de inteligência artificial para recomendar investimentos com base no perfil do investidor.
 
+---
+
 Inteligência Artificial nas Finanças
-
+---
 Apresenta como a IA está sendo aplicada em:
+---
+Análise de dados financeiros
+---
+Previsão de tendências de mercado
+---
+Apoio à tomada de decisões financeiras
 
-análise de dados financeiros
-
-previsão de tendências de mercado
-
-apoio à tomada de decisões financeiras
+---
 
 Educação Financeira – Banco Central
-
+---
 Material que aborda:
-
-importância da educação financeira
-
-planejamento financeiro pessoal
-
-controle de gastos e organização financeira
-
+---
+Importância da educação financeira
+---
+Planejamento financeiro pessoal
+---
+Controle de gastos e organização financeira
+---
 ## 📖 Glossário
 
 Inteligência Artificial
+---
 Tecnologia capaz de processar dados e automatizar decisões.
 
+---
+
 IA Generativa
+---
 Tipo de IA capaz de criar novos conteúdos e análises.
 
+---
+
 Robo-advisor
+---
 Sistema automatizado que fornece recomendações de investimento.
 
+---
+
 Diversificação
+---
 Estratégia que distribui investimentos entre diferentes ativos para reduzir riscos.
 
+---
+
 Mercado de Capitais
+---
 Ambiente onde são negociados ativos financeiros como ações e títulos.
 
 ## 🔁 Prompts Reutilizáveis
 
-Resuma os principais conceitos sobre investimentos presentes nas fontes.
+-Resuma os principais conceitos sobre investimentos presentes nas fontes.
 
-Explique como a inteligência artificial pode apoiar decisões financeiras.
+-Explique como a inteligência artificial pode apoiar decisões financeiras.
 
-Liste os principais riscos do uso da IA no mercado financeiro.
+-Liste os principais riscos do uso da IA no mercado financeiro.
 
-Compare educação financeira tradicional com ferramentas de IA.
+-Compare educação financeira tradicional com ferramentas de IA.
 
-Explique conceitos financeiros para um investidor iniciante.
+-Explique conceitos financeiros para um investidor iniciante.
 
 ## 📌 Conclusão
 
