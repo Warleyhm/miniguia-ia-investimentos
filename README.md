@@ -44,15 +44,15 @@ O projeto reúne fontes abertas sobre educação financeira e inteligência arti
 
 ## 📑 Sumário
 
- [Objetivo do Projeto](#objetivo-do-projeto)
- [Objetivos de Estudo](#objetivos-de-estudo)
- [Fontes Utilizadas](#fontes-utilizadas)
- [Perguntas Estratégicas](#perguntas-estratégicas)
- [Testes de Prompts](#testes-de-prompts)
- [Resumos das Fontes](#resumos-das-fontes)
- [Glossário](#glossário)
- [Prompts Reutilizáveis](#prompts-reutilizáveis)
- [Conclusão](#conclusão)
+- Objetivo do Projeto
+- Objetivos de Estudo
+- Fontes Utilizadas
+- Perguntas Estratégicas
+- Testes de Prompts
+- Resumos das Fontes
+- Glossário
+- Prompts Reutilizáveis
+- Conclusão
   
 ## 🎯 Objetivo do Projeto
 
