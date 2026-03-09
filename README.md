@@ -215,23 +215,23 @@ Controle de gastos e organização financeira
 
 ## 📖 Glossário
 
-Inteligência Artificial
+- Inteligência Artificial
 
 Tecnologia capaz de processar dados e automatizar decisões.
 
-IA Generativa
+- IA Generativa
 
 Tipo de IA capaz de criar novos conteúdos e análises.
 
-Robo-advisor
+- Robo-advisor
 
 Sistema automatizado que fornece recomendações de investimento.
 
-Diversificação
+- Diversificação
 
 Estratégia que distribui investimentos entre diferentes ativos para reduzir riscos.
 
-Mercado de Capitais
+- Mercado de Capitais
 
 Ambiente onde são negociados ativos financeiros como ações e títulos.
 
