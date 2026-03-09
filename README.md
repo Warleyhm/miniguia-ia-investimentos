@@ -165,7 +165,7 @@ Entre os principais riscos estão:
   
 ## 📊 Resumos das Fontes
 
-Guia CVM – Como Funciona a Bolsa
+-Guia CVM – Como Funciona a Bolsa
 
 Explica o funcionamento da bolsa de valores, incluindo:
 
@@ -175,7 +175,7 @@ funcionamento do mercado de capitais
 
 participação de investidores
 
-Planejamento Financeiro Pessoal
+-Planejamento Financeiro Pessoal
 
 Materiais educativos sobre:
 
@@ -185,11 +185,11 @@ planejamento de gastos
 
 tomada de decisões financeiras conscientes
 
-Artigo sobre Robo-Advisors
+-Artigo sobre Robo-Advisors
 
 Analisa plataformas digitais que utilizam algoritmos de inteligência artificial para recomendar investimentos com base no perfil do investidor.
 
-Inteligência Artificial nas Finanças
+-Inteligência Artificial nas Finanças
 
 Apresenta como a IA está sendo aplicada em:
 
@@ -199,7 +199,7 @@ Previsão de tendências de mercado
 
 Apoio à tomada de decisões financeiras
 
-Educação Financeira – Banco Central
+-Educação Financeira – Banco Central
 
 Material que aborda:
 
